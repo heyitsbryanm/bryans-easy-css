@@ -1,0 +1,84 @@
+
+/*========== alignment ==========*/
+
+.text-align-center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.text-align-left {
+	text-align: left;
+}
+.text-align-right {
+	text-align: right;
+}
+
+.display-inline {
+  display: inline;
+}
+
+/*========== float ==========*/
+
+.clear-both {
+	clear: both;
+}
+
+.float-right {
+	float: right;
+}
+
+.float-left {
+	float: right;
+}
+
+/*========== background ==========*/
+
+.background-contain {
+	background-size: contain;
+}
+
+.background-cover {
+	background-size: cover;
+}
+
+/*========== positioning ==========*/
+
+.position-absolute {
+	position: absolute;
+}
+
+.position-relative {
+  position: relative
+}
+
+.position-sticky {
+	position: sticky;
+	position: -webkit-sticky;
+}
+
+.zIndexBump {
+	z-index: 5;
+}
+
+/*========== spacing ==========*/
+
+.margin-disable {
+	margin: 0;
+}
+
+.margin-disable-vertical {
+  margin: 0 auto;
+}
+
+.margin-disable-horizontal {
+  margin: 0 auto;
+}
+
+.padding-disable {
+	padding: 0;
+}
+
+/*========== etc ==========*/
+.danger.button {
+	background: #ff4242
+}
